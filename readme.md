@@ -15,13 +15,13 @@ simulator`).
 To run on a specific type of simulator. You can run `rake simulator
 device_name="SIMULATOR"`. Here is a list of simulators available:
 
-- `rake simulator device_name='iPhone 5s'
-- `rake simulator device_name='iPhone 8 Plus'
-- `rake simulator device_name='iPhone 8 Plus'
-- `rake simulator device_name='iPhone X'
-- `rake simulator device_name='iPad Pro (9.7-inch)'
-- `rake simulator device_name='iPad Pro (10.5-inch)'
-- `rake simulator device_name='iPad Pro (12.9-inch)'
+- `rake simulator device_name='iPhone 5s`
+- `rake simulator device_name='iPhone 8 Plus`
+- `rake simulator device_name='iPhone 8 Plus`
+- `rake simulator device_name='iPhone X`
+- `rake simulator device_name='iPad Pro (9.7-inch)`
+- `rake simulator device_name='iPad Pro (10.5-inch)`
+- `rake simulator device_name='iPad Pro (12.9-inch)`
 
 Consider using https://github.com/KrauseFx/xcode-install (and other
 parts of FastLane) to streamline management of simulators,
